@@ -55,9 +55,10 @@ main p {
   opacity: 1;
   visibility: visible;
 }
+
 .search-results {
   position: absolute;
-  visibility: collapse;
+  visibility: hidden;
   opacity: 0;
   width: 500px;
   border: 1px solid gray;
@@ -80,6 +81,7 @@ main p {
 .search-results .selected,
 .search-results li:hover {
   background-color: rgba(233, 18, 18, 0.214);
+  visibility: visible;
 }
 
 .loader {

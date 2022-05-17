@@ -71,7 +71,9 @@ function Searcher({ content }) {
           {[...entries[1]].map((entry, index) => (
             <li
               key={index}
-              onClick={() => queryArticle(index)}
+              onClick={() => {
+                queryArticle(index);
+              }}
               className={selected === index ? "selected" : null}
             >
               {entry}
