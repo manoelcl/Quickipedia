@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Quickipedia/static/css/main.c61d10b3.css",
-    "main.js": "/Quickipedia/static/js/main.da67b1c8.js",
+    "main.css": "/Quickipedia/static/css/main.c04bc0b6.css",
+    "main.js": "/Quickipedia/static/js/main.bd238962.js",
     "static/js/787.d477f4e7.chunk.js": "/Quickipedia/static/js/787.d477f4e7.chunk.js",
     "index.html": "/Quickipedia/index.html",
-    "main.c61d10b3.css.map": "/Quickipedia/static/css/main.c61d10b3.css.map",
-    "main.da67b1c8.js.map": "/Quickipedia/static/js/main.da67b1c8.js.map",
+    "main.c04bc0b6.css.map": "/Quickipedia/static/css/main.c04bc0b6.css.map",
+    "main.bd238962.js.map": "/Quickipedia/static/js/main.bd238962.js.map",
     "787.d477f4e7.chunk.js.map": "/Quickipedia/static/js/787.d477f4e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c61d10b3.css",
-    "static/js/main.da67b1c8.js"
+    "static/css/main.c04bc0b6.css",
+    "static/js/main.bd238962.js"
   ]
 }
