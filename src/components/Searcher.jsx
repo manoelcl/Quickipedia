@@ -37,7 +37,7 @@ function Searcher({ content }) {
 
     if (input) {
       fetch(
-        `http://en.wikipedia.org//w/api.php?action=query&format=json&prop=revisions&titles=${
+        `https://en.wikipedia.org//w/api.php?action=query&format=json&prop=revisions&titles=${
           articleName[articleName.length - 1]
         }&formatversion=2&origin=*&rvprop=content&rvslots=*&prop=extracts`
       )
